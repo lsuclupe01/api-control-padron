@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "nroDocumento": "10187816",
+        "apellidos": "Suclupe Lescano",
+        "nombres": "Luis Alberto",
+        "perfil": "DT",
+        "nombreEquipo": "Academia 39"
+    },
+    {
+        "id": "2",
+        "nroDocumento": "40863358",
+        "apellidos": "Atalaya Camones",
+        "nombres": "Sonia Liz",
+        "perfil": "Delegada",
+        "nombreEquipo": "Academia 39"
+    },
+    {
+        "id": "3",
+        "nroDocumento": "9999999",
+        "apellidos": "Aro Sifuentes",
+        "nombres": "Michael",
+        "perfil": "Delegado",
+        "nombreEquipo": "Estrella Roja"
+    }
+]

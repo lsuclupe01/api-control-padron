@@ -28,7 +28,7 @@ var server = http.createServer(app);
 //server.listen(port);
 
 server.listen(port, () => {
-  console.log(`Server listening on port http://localhost:${port}`);
+  console.log(`Server listening on port http://${process.env.IP}:${port}`);
 })
 
 server.on('error', onError);

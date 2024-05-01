@@ -11,4 +11,9 @@ router.get('/', function(req, res, next) {
   res.json(equipos) 
 });
 
+router.get('/images', function(req, res, next) {
+  //res.send('respond with a equipos');
+
+  res.json(equipos) 
+});
 module.exports = router;

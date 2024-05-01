@@ -5,6 +5,11 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const cors = require('cors')
 
+const os = require('os');
+const hostname = os.hostname();
+
+console.log('Hostname:', hostname);
+
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var equiposRouter = require('./routes/equipos');

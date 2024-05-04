@@ -1,26 +1,162 @@
 [
     {
         "id": "1",
-        "nroDocumento": "10187816",
-        "apellidos": "Suclupe Lescano",
-        "nombres": "Luis Alberto",
-        "perfil": "DT",
-        "nombreEquipo": "Academia 39"
+        "nroDocumento": "46630390",
+        "nombres": "Francesca",
+        "apellidos": "Rivera Aguilar",
+        "perfil": "Delegada",
+        "fechaNacimiento": "N/E",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
     },
     {
         "id": "2",
-        "nroDocumento": "40863358",
-        "apellidos": "Atalaya Camones",
-        "nombres": "Sonia Liz",
-        "perfil": "Delegada",
-        "nombreEquipo": "Academia 39"
+        "nroDocumento": "70035968",
+        "nombres": "Gloria",
+        "apellidos": "Villacorta",
+        "perfil": "Sub Delegada",
+        "fechaNacimiento": "N/E",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
     },
     {
         "id": "3",
-        "nroDocumento": "9999999",
-        "apellidos": "Aro Sifuentes",
-        "nombres": "Michael",
+        "nroDocumento": "10376106",
+        "nombres": "Efrain",
+        "apellidos": "Ruiz Pereda",
         "perfil": "Delegado",
-        "nombreEquipo": "Estrella Roja"
+        "fechaNacimiento": "N/E",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "4",
+        "nroDocumento": "46630390",
+        "nombres": "Francesca",
+        "apellidos": "Rivera Aguilar",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "11/09/1990",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "5",
+        "nroDocumento": "70035968",
+        "nombres": "Gloria Ibeth",
+        "apellidos": "Villacorta Patow",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "02/04/1988",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "6",
+        "nroDocumento": "46039816",
+        "nombres": "Lizbeth",
+        "apellidos": "Segura Villanueva",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "29/08/1989",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "7",
+        "nroDocumento": "43039816",
+        "nombres": "Pamela",
+        "apellidos": "Zapata Almeyda",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "17/07/1985",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "8",
+        "nroDocumento": "45786946",
+        "nombres": "Sammy Carolay",
+        "apellidos": "Nuñez Patow",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "22/03/1989",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "9",
+        "nroDocumento": "44263600",
+        "nombres": "Rosa Luz",
+        "apellidos": "Jimenez Amao",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "23/05/1987",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "10",
+        "nroDocumento": "72823318",
+        "nombres": "Debora Rosa",
+        "apellidos": "Rivera Aguilar",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "19/11/2008",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "11",
+        "nroDocumento": "76195927",
+        "nombres": "Graciela Ximena",
+        "apellidos": "Vidal Medina",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "12/09/1996",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "12",
+        "nroDocumento": "71120624",
+        "nombres": "Magaly",
+        "apellidos": "Perez Davila",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "08/09/1992",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "13",
+        "nroDocumento": "47283998",
+        "nombres": "Mirelly Rosa",
+        "apellidos": "Huacacolqui Pimentel",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "04/09/1992",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "14",
+        "nroDocumento": "45358284",
+        "nombres": "Paola",
+        "apellidos": "Burga Castilla",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "14/11/1985",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "15",
+        "nroDocumento": "60432225",
+        "nombres": "Rosmery",
+        "apellidos": "Milla Cortez",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "02/01/1998",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
+    },
+    {
+        "id": "16",
+        "nroDocumento": "70951981",
+        "nombres": "Yaderly Sayuri",
+        "apellidos": "Castro Osorio",
+        "perfil": "Jugadora",
+        "fechaNacimiento": "20/10/2007",
+        "nombreEquipo": "Defensor Rosales F.C.",
+        "Categoria": "Libre Femenino"
     }
 ]

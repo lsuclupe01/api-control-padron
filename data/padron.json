@@ -7,7 +7,7 @@
         "perfil": "Delegada",
         "fechaNacimiento": "N/E",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "2",
@@ -17,7 +17,7 @@
         "perfil": "Sub Delegada",
         "fechaNacimiento": "N/E",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "3",
@@ -27,7 +27,7 @@
         "perfil": "Delegado",
         "fechaNacimiento": "N/E",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "4",
@@ -37,7 +37,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "11/09/1990",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "5",
@@ -47,7 +47,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "02/04/1988",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "6",
@@ -57,7 +57,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "29/08/1989",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "7",
@@ -67,7 +67,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "17/07/1985",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "8",
@@ -77,7 +77,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "22/03/1989",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "9",
@@ -87,7 +87,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "23/05/1987",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "10",
@@ -97,7 +97,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "19/11/2008",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "11",
@@ -107,7 +107,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "12/09/1996",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "12",
@@ -117,7 +117,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "08/09/1992",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "13",
@@ -127,7 +127,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "04/09/1992",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "14",
@@ -137,7 +137,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "14/11/1985",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "15",
@@ -147,7 +147,7 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "02/01/1998",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     },
     {
         "id": "16",
@@ -157,6 +157,6 @@
         "perfil": "Jugadora",
         "fechaNacimiento": "20/10/2007",
         "nombreEquipo": "Defensor Rosales F.C.",
-        "Categoria": "Libre Femenino"
+        "categoria": "Libre Femenino"
     }
 ]

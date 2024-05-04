@@ -2,61 +2,66 @@
     {
         "id": "1",
         "nombre": "Club Defensor Rosales",
-        "urlLogo": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Rosales.jpeg"
     },
     { 
         "id": "2",
         "nombre": "A.D. Las Águilas JJ",
-        "urlLogo": "https://i.ebayimg.com/images/g/yokAAOSw8w1YARbm/s-l1200.jpg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Las-Aguilas-JJ.jpeg"
     },
     {
         "id": "3",
         "nombre": "C.D. Independiente",
-        "urlLogo": "https://api-control-padron.onrender.com/images/batman.jpg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/CDI.jpeg"
     },
     {
         "id": "4",
         "nombre": "C.D Bahía Blanca",
-        "urlLogo": "https://www.dyc39.com/wp-content/uploads/2024/04/Deportivo-Bahia-Blanca-1.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Deportivo-Bahia-Blanca.jpeg"
     },
     {
         "id": "5",
         "nombre": "Club Nueva Generación",
-        "urlLogo": "http://www.dyc39.com/wp-content/uploads/2024/04/Nueva-Generacion-1.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Nueva-Generacion.jpeg"
     },
     {
         "id": "6",
         "nombre": "Club Estrella Roja",
-        "urlLogo": "http://www.dyc39.com/wp-content/uploads/2024/04/Estrella-Roja.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Estrella-Roja.jpeg"
     },
     {
         "id": "7",
         "nombre": "SWHINJ F.C.",
-        "urlLogo": "http://www.dyc39.com/wp-content/uploads/2024/04/SWHINJ-F.C.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/SWHINJ-F.C.jpeg"
     },
     {
         "id": "8",
         "nombre": "Sport Zaragoza",
-        "urlLogo": "http://www.dyc39.com/wp-content/uploads/2024/04/Sport-Zaragoza.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Sport-Zaragoza.jpeg"
     },
     {
         "id": "9",
         "nombre": "E.F. Buen Angel",
-        "urlLogo": "https://www.dyc39.com/wp-content/uploads/2024/04/E.F-Buen-Angel.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/E.F-Buen-Angel.jpeg"
     },
     {
         "id": "10",
         "nombre": "Defensor Cox",
-        "urlLogo": "https://www.dyc39.com/wp-content/uploads/2024/04/Defensor-Cox.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Cox.jpeg"
     },
     {
         "id": "11",
-        "nombre": "Defensor Rosales",
-        "urlLogo": "https://www.dyc39.com/wp-content/uploads/2024/04/Defensor-Rosales-Femenino.jpeg"
+        "nombre": "Defensor Rosales F.C.",
+        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Rosales-F.C.jpeg"
     },
     {
         "id": "12",
         "nombre": "Arboleda F.C.",
-        "urlLogo": "https://www.dyc39.com/wp-content/uploads/2024/04/Arboleda-F.C.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Arboleda-F.C.jpeg"
+    },
+    {
+        "id": "13",
+        "nombre": "C.D. Paz y Amistad",
+        "urlLogo": "https://api-control-padron.onrender.com/images/C.D.-Paz-y-Amistad.png"
     }
 ]

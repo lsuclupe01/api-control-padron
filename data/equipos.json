@@ -2,66 +2,105 @@
     {
         "id": "1",
         "nombre": "Club Defensor Rosales",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Rosales.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Rosales.jpeg",
+        "delegado": "Diego Pereda Zavala",
+        "subdelegado": "Kaherine Calistro",
+        "entrenador": "Cristhofer Calistro"
     },
-    { 
+    {
         "id": "2",
         "nombre": "A.D. Las Águilas JJ",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Las-Aguilas-JJ.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Las-Aguilas-JJ.jpeg",
+        "delegado": "Delegado 1",
+        "subdelegado": "Sub Delegado 1",
+        "entrenador": "entrenador 1"
     },
     {
         "id": "3",
         "nombre": "C.D. Independiente",
-        "urlLogo": "https://api-control-padron.onrender.com/images/CDI.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/CDI.jpeg",
+        "delegado": "Delegado 2",
+        "subdelegado": "Sub Delegado 2",
+        "entrenador": "entrenador 2"
     },
     {
         "id": "4",
         "nombre": "C.D Bahía Blanca",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Deportivo-Bahia-Blanca.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Deportivo-Bahia-Blanca.jpeg",
+        "delegado": "Delegado 3",
+        "subdelegado": "Sub Delegado 3",
+        "entrenador": "entrenador 3"
     },
     {
         "id": "5",
         "nombre": "Club Nueva Generación",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Nueva-Generacion.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Nueva-Generacion.jpeg",
+        "delegado": "Delegado 4",
+        "subdelegado": "Sub Delegado 4",
+        "entrenador": "entrenador 4"
     },
     {
         "id": "6",
         "nombre": "Club Estrella Roja",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Estrella-Roja.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Estrella-Roja.jpeg",
+        "delegado": "Delegado 5",
+        "subdelegado": "Sub Delegado 5",
+        "entrenador": "entrenador 5"
     },
     {
         "id": "7",
         "nombre": "SWHINJ F.C.",
-        "urlLogo": "https://api-control-padron.onrender.com/images/SWHINJ-F.C.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/SWHINJ-F.C.jpeg",
+        "delegado": "Delegado 6",
+        "subdelegado": "Sub Delegado 6",
+        "entrenador": "entrenador 6"
     },
     {
         "id": "8",
         "nombre": "Sport Zaragoza",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Sport-Zaragoza.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Sport-Zaragoza.jpeg",
+        "delegado": "Delegado 7",
+        "subdelegado": "Sub Delegado 7",
+        "entrenador": "entrenador 7"
     },
     {
         "id": "9",
         "nombre": "E.F. Buen Angel",
-        "urlLogo": "https://api-control-padron.onrender.com/images/E.F-Buen-Angel.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/E.F-Buen-Angel.jpeg",
+        "delegado": "Delegado 8",
+        "subdelegado": "Sub Delegado 8",
+        "entrenador": "entrenador 8"
     },
     {
         "id": "10",
         "nombre": "Defensor Cox",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Cox.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Cox.jpeg",
+        "delegado": "Delegado 9",
+        "subdelegado": "Sub Delegado 9",
+        "entrenador": "entrenador 9"
     },
     {
         "id": "11",
         "nombre": "Defensor Rosales F.C.",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Rosales-F.C.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Defensor-Rosales-F.C.jpeg",
+        "delegado": "Delegado 10",
+        "subdelegado": "Sub Delegado 10",
+        "entrenador": "entrenador 10"
     },
     {
         "id": "12",
         "nombre": "Arboleda F.C.",
-        "urlLogo": "https://api-control-padron.onrender.com/images/Arboleda-F.C.jpeg"
+        "urlLogo": "https://api-control-padron.onrender.com/images/Arboleda-F.C.jpeg",
+        "delegado": "Delegado 11",
+        "subdelegado": "Sub Delegado 11",
+        "entrenador": "entrenador 11"
     },
     {
         "id": "13",
         "nombre": "C.D. Paz y Amistad",
-        "urlLogo": "https://api-control-padron.onrender.com/images/C.D.-Paz-y-Amistad.png"
+        "urlLogo": "https://api-control-padron.onrender.com/images/C.D.-Paz-y-Amistad.png",
+        "delegado": "Delegado 12",
+        "subdelegado": "Sub Delegado 12",
+        "entrenador": "entrenador 12"
     }
 ]

@@ -15,8 +15,7 @@ var usersRouter = require('./routes/users');
 var equiposRouter = require('./routes/equipos');
 var ejemploRouter = require('./routes/ejemplo');
 var padronRouter = require('./routes/padron');
-
-
+var accesoRouter = require('./routes/acceso');
 
 
 var app = express();
@@ -35,9 +34,9 @@ app.use(cors({
   origin: (origin, callback) => {
       const ACCEPTED_ORIGINS = [
           'http://localhost:8081',
-          //'http://localhost:1234',
+          'http://192.168.9.98:8081',
           'http://movies.com',
-          'http://mide.dev'
+          'http://mide.dev' 
       ]
       if(ACCEPTED_ORIGINS.includes(origin)){
           return callback(null,true)
@@ -56,6 +55,7 @@ app.use('/users', usersRouter);
 app.use('/equipos', equiposRouter);
 app.use('/ejemplo', ejemploRouter);
 app.use('/padron', padronRouter);
+app.use('/acceso', accesoRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
